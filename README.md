@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, Myself Ayanabha Paul</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
+![](https://komarev.com/ghpvc/?username=ayanluap&style=flat-square)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayanluap" alt="ayanluap" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
