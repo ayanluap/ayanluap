@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayanluap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ayanluap" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayanabha-paul-9102641aa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayanabha-paul-9102641aa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayanabha-paul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayanabha-paul-9102641aa" height="30" width="40" /></a>
 <a href="https://fb.com/ayan.paul.75286" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ayan.paul.75286" height="30" width="40" /></a>
 <a href="https://instagram.com/ayanluap" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ayanluap" height="30" width="40" /></a>
 </p>
