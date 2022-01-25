@@ -10,6 +10,7 @@
   <strong>--</strong> I'm a Full stack web developer. Feel free to contact me for project collaboration.</br>
   <strong>--</strong> Currently focusing to improve my Problem solving skills.</br>
   <strong>--</strong> Reach me at <a href="mailto:ayanluap@gmail.com">ayanluap@gmail.com</a></br>
+  <strong>--</strong> Portfolio site <a href="https://ayanpaul.netlify.app/">https://ayanpaul.netlify.app/</a></br>
 </p>
 
 <!-- <h3>< SKILLED IN /></h3> -->
