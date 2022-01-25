@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, Myself Ayanabha Paul</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+<h2>Hi 👋, Myself Ayanabha Paul</h2>
 
 ![](https://komarev.com/ghpvc/?username=ayanluap&style=flat-square)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayanluap" alt="ayanluap" /></a> </p>
+<!-- About -->
+<h3>< About me /></h3>
+<p>
+  <strong>--</strong> I am a final year B.Tech student from Guru Gobind Singh Indraprastha University.<br/>
+  <strong>--</strong> I'm a Full stack web developer. Feel free to contact me for project collaboration.</br>
+  <strong>--</strong> Currently focusing to improve my Problem solving skills.</br>
+  <strong>--</strong> Reach me at <a href="mailto:ayanluap@gmail.com">ayanluap@gmail.com</a></br>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
