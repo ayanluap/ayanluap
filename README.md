@@ -26,10 +26,10 @@
 <h3>< My Github Stats /></h3>
 <p align="left" width="100%">
 <span>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayanluap&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayanluap" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=ayanluap&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayanluap" />
 </span>
 <span>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanluap&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayanluap" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanluap&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayanluap" />
 </span>
 </p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanluap&" alt="ayanluap" /></p> -->
