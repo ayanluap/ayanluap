@@ -1,4 +1,4 @@
-<h2>Hi 👋, Myself Ayanabha Paul</h2>
+<h2 align="center">Hi 👋, Myself Ayanabha Paul</h2>
 
 ![](https://komarev.com/ghpvc/?username=ayanluap&style=flat-square)
 
