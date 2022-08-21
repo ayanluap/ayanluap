@@ -6,7 +6,7 @@
 
 <h3>< ABOUT ME /></h3>
 <p>
-  <strong>--</strong> I am a final year B.Tech student from Guru Gobind Singh Indraprastha University.<br/>
+  <strong>--</strong> I am a B.Tech graduate from Guru Gobind Singh Indraprastha University.<br/>
   <strong>--</strong> I'm a Full stack web developer. Feel free to contact me for project collaboration.</br>
   <strong>--</strong> Currently focusing to improve my Problem solving skills.</br>
   <strong>--</strong> Reach me at <a href="mailto:ayanluap@gmail.com">ayanluap@gmail.com</a></br>
